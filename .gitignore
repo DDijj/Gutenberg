@@ -35,3 +35,57 @@
 .Trashes
 ehthumbs.db
 Thumbs.db
+.env
+ ===== Python =====
+
+__pycache__/
+
+*.pyc
+
+
+
+# ===== Virtualenv =====
+
+.venv/
+
+venv/
+
+
+
+# ===== IDE =====
+
+.idea/
+
+.vscode/
+
+
+
+# ===== Jupyter =====
+
+.ipynb_checkpoints/
+
+
+
+# ===== OS =====
+
+.DS_Store
+
+Thumbs.db
+
+
+
+# ===== Local data / runtime =====
+
+state.txt
+
+*.log
+
+
+
+# ===== Build =====
+
+dist/
+
+build/
+
+*.spec
